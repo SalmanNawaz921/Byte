@@ -1,0 +1,18 @@
+* {
+  /* font-family: TIActuBeta, TIActuBetaFallback, sans-serif; */
+  margin: 0;
+  padding:  0;
+  box-sizing: border-box;
+  width:"100%"
+}
+
+
+:root{
+  /* font-family: "TIActuBeta", "TIActuBetaFallback", sans-serif; */
+  font-family: "Balto-Black", "Balto-BlackFallback", sans-serif;
+}
+
+body{
+  position: absolute;
+
+}
